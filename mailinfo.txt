@@ -1,0 +1,6 @@
+
+    Type of incoming mail server: POP3 or IMAP
+    Incoming mail (POP3 / IMAP) server: mx.000webhost.com
+    Outgoing (SMTP) server: you need to use your ISP (Internet Service Provider) SMTP server. Call your ISP to know your SMTP (mail sending) server. In case you are unable to get SMTP server, you can use WebMail for email sending.
+    Username / Email: sunilsahib2000@sunilsahib2000.vacau.com
+    Password: sunil@123

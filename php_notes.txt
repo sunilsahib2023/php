@@ -1,0 +1,76 @@
+// php
+
+# PreRequirement to Learn PHP
+#XHTML-basic
+#JavaScript Basic
+
+
+
+xhtml :- Standard for Extensible Hypertext markup Laguage :-
+clearner and stricter vesrsion of html
+it is standardized  by w3c jan 2000
+it must follow dtd publish by w3c standard
+ 
+
+   Install Apache (or IIS) on your own server, install PHP, and MySQL
+    Or find a web hosting plan with PHP and MySQL support
+
+
+
+
+Must have root tag
+
+All element must be in small letter
+There should be perfect nesting in all element in documenmt
+
+All attributes must be in small letter
+and must be closed in in double quotes
+
+The XHTML DTD defines mandatory elements.
+XHTML-supported by most major browser
+
+php:-Hypertext Preprocessor
+recursive acronym
+
+server site,case senstive
+Persona home page
+1994:-Rasmus Lerdorf  PHP/FI
+CGI-Binary in c language
+Itwas written to keep a tracking  on 
+his online resume :- he Named as personal home page Tool.
+
+PHP:-Server site script like ASP
+PHP-will run on server only
+Support many databases orACE,SYBASE INFORMIX,MYSQL,odbc
+Free to downloads
+
+
+He rewrote php tool it modity large extent , Add the databas coonectivity,Guest book
+
+1995 he release source code to  public,allow the people to fix
+bugs and improve the code.
+pHP 5 was released in July 2004 
+
+PHP:-file contain,HTML,javaScript,php
+retunrn to browser plain text
+extnesion can be php,php3,phtml
+
+Mysql:-Database server
+Mysql support standard sql ansi
+Msqyl:-compiles on number of platform
+MYSQL:-free to dwonload
+
+PHP combined with MySQL are cross-platform (you can develop in Windows and serve on a Unix platform)
+
+    PHP runs on different platforms (Windows, Linux, Unix, etc.)
+    PHP is compatible with almost all servers used today (Apache, IIS, etc.)
+    PHP is FREE to download from the official PHP resource: www.php.net
+    PHP is easy to learn and runs efficiently on the server side
+
+
+
+
+
+
+
+

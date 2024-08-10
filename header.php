@@ -1,10 +1,18 @@
+<html>
+<body bgColor='red' style="text-align:center">
 <?php
-function show_header($m='User Management',$bc='black',$tc='white')
-{
-$d = date("d-m-y");
-echo  "<div style='width:100%; background:$bc;color:$tc;font-size:50px;padding:20px;box-shadow:10px 10px gray;text-aling:center;'>$m
-<div  style='display:inline-block;width:65%;text-align:right;background:ed;'>$d</div>
+echo "<div style='display:inline;background-color:orange;width:600px;height:40px'>
+<img src='logo.jpg' style='float:left'><br><h3 style='color:green'>HOME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRODUCT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOGIN
 </div>";
-}
+
+
+
+
+
 
 ?>
+
+</body>
+
+
+</html>
