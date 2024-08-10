@@ -1,0 +1,26 @@
+My Name =  Sunil Kumar
+Date = : 04/11/2011:08:11:13
+Message = Dear Sir,
+With Refernce to your letter we offer you the job of marketing ex.My Name =  Raj 
+Date = : 04/11/2011:09:11:17
+Message = Dear Sir,
+appendecx lineMy Name =  Harri Kumar
+Date = : 04/11/2011:09:11:40
+Message = This is a Third  lineMy Name =  Harri Kumar
+Date = : 04/11/2011:09:11:38
+Message = This is a Third  lineMy Name =  Sam
+Date = : 04/11/2011:09:11:18
+Message = This will be written in the beginning of fileMy Name =  Sam
+Date = : 04/11/2011:09:11:58
+Message = This will be written in the beginning of fileMy Name =  start.............
+Date = : 04/11/2011:09:11:53
+Message = vvvvvvvvvvv
+This will be written in the beginning of file
+erew            8888888My Name =  aaaaaa
+Date = : 04/11/2011:09:11:52
+Message = aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaa
+a
+a
+a
