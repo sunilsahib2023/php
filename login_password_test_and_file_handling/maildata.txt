@@ -1,0 +1,36 @@
+My Name =  Ritu
+Date = : 13/07/2016:06:07:26
+Message = Hello  wrold ,
+This is just a trial messgae.My Name =  sk
+Date = : 13/07/2016:06:07:31
+Message = second trial mmessage
+*******************My Name =  ttttttttttttttt
+Date = : 13/07/2016:06:07:43
+Message = nnnnnnnnnnnnnnnnnnMy Name =  qweqw
+Date = : 15/07/2016:06:07:08
+Message = wqeqwMy Name =  
+Date = : 15/07/2016:06:07:02
+Message = <html>
+<body bgColor = "palegreen">
+<h1>Send Message To Me</h1>
+<form method="post" action="filewrite.php">
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text"  name="uname"><br>
+Message <textarea   style="vertical-align: middle" rows="5" cols="20" name="mes" ></textarea><br 
+/> 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+p;&nbsp;&nbsp;<input type="submit" value="send">
+<input type="reset">
+
+</form>
+
+
+
+
+</body>My Name =  
+Date = : 15/12/2016:05:12:08
+Message = My Name =  asd
+Date = : 31/05/2017:10:05:52
+Message = asdasd

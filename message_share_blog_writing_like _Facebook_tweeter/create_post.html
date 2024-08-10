@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<body bgColor="##0099cc">
+<div style="margin:auto;text-align:center;color:white">
+<p style="font-size:50px">Create a Post</p>
+
+
+<form action="writefile.php" Method="Post"  enctype="multipart/form-data">
+
+<p style="font-size:30px">Name (To Appear on Blog or Post)</P>
+<Input type="text" size="50" Required style="border-radius:10px;height:40px;font-size:20px"  name="uname">
+
+<p style="font-size:30px">Blog or Post Heading</p>
+
+<Input type="text" size="50" Required style="border-radius:10px;height:40px;font-size:20px" name="post_heading">
+
+<p style="font-size:30px"> Upload Image<input type="file" name="file"></p>
+<p style="font-size:30px">Blog or Post Text</p>
+
+</p>
+
+
+<textArea size="50" Required style="border-radius:10px;padding:10px;font-size:20px;" cols="40" rows="10" name="postdata">
+</textArea>
+<P><INPUT style="font-size:30px" TYPE="submit" value="Post"><input style="font-size:30px" type="Reset" value="Clear Post Data">
+
+
+
+</form>
+
+<a  style="font-size:30px" href="blog.html">Read All Post</a>
+
+</div>
+</body>
+
+
+</html>
