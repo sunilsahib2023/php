@@ -1,0 +1,67 @@
+Module: PHP Thoery Test -2
+Total Marks :25
+
+	1)Name the Any Two Php Global Variable 
+
+	2)What are the Two way to carry PHP variable from one page to another to Display 	current user 	Name in All Php file (Write the Ans with Example)
+
+	3Write a Command To create Constant to store and  display  componey name.
+
+	4)Write a command to create Random number between  0 and 5000 .
+
+	5)How to convert Text in Capital letter .Give Single Line Exampe.
+
+	6)Php Command are case-sensitive  (True/False)
+
+	7) fwrite function is used for....? (Give single Line example)
+
+	8)Cookies will Remain in user system unless Deleted by user (True/false)
+
+	9) Command to display all Element of array ?
+
+	10)What is the difference between the include() and require() functions?
+
+	11)Function start and stop a session  in PHP?
+
+	12).Whch method s used by search engie to send qery to server .?
+
+	13)Which of the following is the correct syntax of PHP?
+		<?php ?>
+		<?php >
+		?php ?
+		<php >
+	15)Which method sends input to a script via a URL?
+		GET
+		POST
+		Both
+		None
+	16  PHP is an example of _______ scripting language.
+		Browser-side
+		Client-side
+		Server-side
+		In-side
+	19) . ______ symbol is a newline character.
+		\n
+		\r
+		/n
+	/r
+	20) Variables always start with a _____ in PHP
+		Euro-sign
+		Pond-sign
+		Yen-sign
+		Dollar-sign
+	21)Command to send e-mail is...............(Write Complete Syntax)
+
+	22)What was the old name of PHP?
+
+	23) Give the name of magic constants in PHP ?	
+
+	24)What is the use of count() function in PHP ?
+	
+	25)What does isset() function do. ?
+
+	
+
+
+
+

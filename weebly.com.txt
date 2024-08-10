@@ -1,0 +1,28 @@
+
+date 8/7/15
+
+Lab_1 System 1sys1
+
+druple website name is :http://localhost/sunil
+data base : employee   table=emp
+druple site login sunil  password is abc
+
+at the time of installation of druple 
+database name = employee
+user root
+password : not given
+email_address : sunilsahib2000@gmail.com
+
+
+// mywebsite name on weebly.com
+
+1)sunil2000.weebly.com
+   
+   login is : sunilsahib2000@gmail.com
+  password : - password for above site
+
+
+2)sunilsahib2000.weebly.com
+
+  Login:- myarenastudent@gmail.com
+  Password :- password of above login:myname       
